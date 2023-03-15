@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BoltzMM"]
+	path = BoltzMM
+	url = https://github.com/andrewthomasjones/boltzmm
+	shallow = true
+	registered = true
+[submodule "logKDE"]
+	path = logKDE
+	url = https://github.com/andrewthomasjones/logkde
+	shallow = true
+	registered = true
+[submodule "lowmemtkmeans"]
+	path = lowmemtkmeans
+	url = https://github.com/andrewthomasjones/lowmemtkmeans
+	shallow = true
+	registered = true
+[submodule "SAGMM"]
+	path = SAGMM
+	url = https://github.com/andrewthomasjones/sagmm
+	shallow = true
+	registered = true
+[submodule "SSOSVM"]
+	path = SSOSVM
+	url = https://github.com/andrewthomasjones/ssosvm
+	shallow = true
+	registered = true

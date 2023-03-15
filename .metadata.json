@@ -1,0 +1,22 @@
+[
+  {
+    "package": "BoltzMM",
+    "oncran": true
+  },
+  {
+    "package": "logKDE",
+    "oncran": true
+  },
+  {
+    "package": "lowmemtkmeans",
+    "oncran": true
+  },
+  {
+    "package": "SAGMM",
+    "oncran": true
+  },
+  {
+    "package": "SSOSVM",
+    "oncran": true
+  }
+]
