@@ -8,6 +8,11 @@
 	url = https://github.com/andrewthomasjones/boltzmm
 	shallow = true
 	registered = true
+[submodule "EMMIXgene"]
+	path = EMMIXgene
+	url = https://github.com/cran/EMMIXgene
+	shallow = true
+	registered = true
 [submodule "logKDE"]
 	path = logKDE
 	url = https://github.com/andrewthomasjones/logkde
