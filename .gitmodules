@@ -8,15 +8,15 @@
 [submodule "EMMIXgene"]
 	path = EMMIXgene
 	url = https://github.com/cran/EMMIXgene
-[submodule "logKDE"]
-	path = logKDE
-	url = https://github.com/andrewthomasjones/logkde
-[submodule "lowmemtkmeans"]
-	path = lowmemtkmeans
-	url = https://github.com/andrewthomasjones/lowmemtkmeans
 [submodule "SAGMM"]
 	path = SAGMM
 	url = https://github.com/andrewthomasjones/sagmm
 [submodule "SSOSVM"]
 	path = SSOSVM
 	url = https://github.com/andrewthomasjones/ssosvm
+[submodule "logKDE"]
+	path = logKDE
+	url = https://github.com/andrewthomasjones/logkde
+[submodule "lowmemtkmeans"]
+	path = lowmemtkmeans
+	url = https://github.com/andrewthomasjones/lowmemtkmeans
